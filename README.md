@@ -39,15 +39,15 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 
 <p align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandes-dev&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-dev&layout=compact&hide=php" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fernandes-dev&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true&theme=radical" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-dev&layout=compact&hide=php" />
 
 </p>
 
 
 <h3>🤝 Contato</h3>
 
-<p align="center">
+<p align="center" style="display: flex;">
 
 <a href="https://www.linkedin.com/in/fernandes-dev/"><img src="https://img.shields.io/badge/-Eduardo%20Fernandes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
