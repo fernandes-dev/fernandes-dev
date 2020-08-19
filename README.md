@@ -1,8 +1,8 @@
-# Eduardo Fernandes
+<h1>Eduardo Fernandes</h1>
 
-## Olá, seja bem vindo ao meu perfil  😉
+<h2>Olá, seja bem vindo ao meu perfil  😉</h2>
 
-### 👨‍💻 Sobre mim 
+<h3>👨‍💻 Sobre mim </h3>
 
 Olá, me chamo Eduardo Fernandes e sou programador javascript full-stack, graduando em sistemas de informação pela Universidade do Estado de Mato Grosso (UNEMAT) em Sinop.
 <br/>
@@ -11,7 +11,7 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
  :rocket:  &nbsp; Atualmente estou trabalhando na **Vedas Sistemas**, atuando no desenvolvimento de um app para delivery.
  
  
-### 🛠️ Tecnologias
+<h3>🛠️ Tecnologias</h3>
 
 - 💻 &nbsp;
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
@@ -45,7 +45,7 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 </p>
 
 
-### 🤝 Contato
+<h3>🤝 Contato</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fernandes-dev/"><img src="https://img.shields.io/badge/-Eduardo%20Fernandes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
