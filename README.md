@@ -13,6 +13,7 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 
 - 💻 &nbsp;
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
+  ![Ubuntu](https://img.shields.io/badge/-UbuntuServer-333333?style=flat&logo=ubuntu)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,6 +32,7 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![PM2](https://img.shields.io/badge/-Pm2.NodeJs-333333?style=flat&logo=node.js)
+  ![Terminal](https://img.shields.io/badge/-TerminalUnix-333333?style=flat&logo=powershell)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
