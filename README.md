@@ -36,9 +36,13 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-![Fernandes github stats](https://github-readme-stats.vercel.app/api?username=fernandes-dev&show_icons=true&hide=prs,issues&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-dev&layout=compact)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandes-dev&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-dev&layout=compact&hide=php" />
+</a>
+</p>
 
 
 ### 🤝 Contato
