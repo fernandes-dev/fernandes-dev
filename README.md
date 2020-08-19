@@ -38,16 +38,17 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandes-dev&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-dev&layout=compact&hide=php" />
-</a>
+
 </p>
 
 
 <h3>🤝 Contato</h3>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/fernandes-dev/"><img src="https://img.shields.io/badge/-Eduardo%20Fernandes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 <a href="mailto:eduardo.yugan@gmail.com"><img src="https://img.shields.io/badge/-eduardo.yugan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -55,4 +56,5 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@fernandes.sn-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@fernandes.developer-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+
 </p>
