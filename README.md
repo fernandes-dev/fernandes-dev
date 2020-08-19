@@ -1,10 +1,8 @@
-<h1>Eduardo Fernandes</h1>
-
-<h2>Olá, seja bem vindo ao meu perfil  😉</h2>
+<h2>Olá! Sou Eduardo Fernandes  😉</h2>
 
 <h3>👨‍💻 Sobre mim </h3>
 
-Olá, me chamo Eduardo Fernandes e sou programador javascript full-stack, graduando em sistemas de informação pela Universidade do Estado de Mato Grosso (UNEMAT) em Sinop.
+Sou programador javascript full-stack, graduando em sistemas de informação pela Universidade do Estado de Mato Grosso (UNEMAT) em Sinop.
 <br/>
 Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna e capaz de aplicar na resolução dos mais diversos problemas, com javascript no backend e  frontend.
 
@@ -47,7 +45,7 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 
 <h3>🤝 Contato</h3>
 
-<p align="center" style="display: flex;">
+<div style="display: flex;">
 
 <a href="https://www.linkedin.com/in/fernandes-dev/"><img src="https://img.shields.io/badge/-Eduardo%20Fernandes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
@@ -57,4 +55,4 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@fernandes.developer-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
-</p>
+</div>
