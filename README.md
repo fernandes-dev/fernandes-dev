@@ -39,8 +39,8 @@ Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna
 
 <p align="center">
 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fernandes-dev&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true&theme=radical" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-dev&layout=compact&hide=php" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fernandes-dev&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true&theme=radical" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-dev&layout=compact&hide=php" />
 
 </p>
 
