@@ -5,8 +5,6 @@
 Sou programador javascript full-stack, graduando em sistemas de informação pela Universidade do Estado de Mato Grosso (UNEMAT) em Sinop.
 <br/>
 Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna e capaz de aplicar na resolução dos mais diversos problemas, com javascript no backend e  frontend.
-
- :rocket:  &nbsp; Atualmente estou trabalhando na **Vedas Sistemas**, atuando no desenvolvimento de um app para delivery.
  
  
 <h3>🛠️ Tecnologias</h3>
