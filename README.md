@@ -2,36 +2,37 @@
 
 <h3>👨‍💻 Sobre mim </h3>
 
-Sou programador javascript full-stack, graduando em sistemas de informação pela Universidade do Estado de Mato Grosso (UNEMAT) em Sinop.
+Sou programador javascript full-stack, formado em sistemas de informação pela Universidade do Estado de Mato Grosso (UNEMAT) campus de Sinop.
 <br/>
-Através de estudos autônomos me tornei desenvolvedor web com uma stack moderna e capaz de aplicar na resolução dos mais diversos problemas, com javascript no backend e  frontend.
+Através de estudos autônomos, assimilados ao conhecimento científico adquirido na universidade, me tornei desenvolvedor web com uma stack moderna e capaz de aplicar na resolução dos mais diversos problemas, com javascript no backend e  frontend.
+Meu principal foco é o desenvolvimento de aplicações backend, tendo atuado na criação de funções serverless, microserviços, softwares real-time e processamento de dados sob demanda com tudo de melhor que o NodeJS tem a oferecer.
  
  
 <h3>🛠️ Tecnologias</h3>
 
-- 💻 &nbsp;
-  ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
-  ![Ubuntu](https://img.shields.io/badge/-UbuntuServer-333333?style=flat&logo=ubuntu)
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- 🌐 &nbsp; Linguagens e Frameworks
+  
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Serverless](https://img.shields.io/badge/-Serverless-333333?style=flat&logo=serverless)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Kafka](https://img.shields.io/badge/-ApacheKafka-333333?style=flat&logo=ApacheKafka)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Adonis.js](https://img.shields.io/badge/-AdonisJs-333333?style=flat&logo=adonisjs)
   ![Websockets](https://img.shields.io/badge/-Websockets-333333?style=flat&logo=socket.io)
-  ![Vue.Js](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue.js)
-  ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify&logoColor=addbfd)
-- 🛢 &nbsp;
+  ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vue.js)
+- 🛢 &nbsp; Banco de Dados
+  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
+- ⚙️ &nbsp; Utilitários 
+  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![PM2](https://img.shields.io/badge/-Pm2.NodeJs-333333?style=flat&logo=node.js)
   ![Terminal](https://img.shields.io/badge/-TerminalUnix-333333?style=flat&logo=powershell)
-- 🔧 &nbsp;
+- 🔧 &nbsp; Ferramentas
+  
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
